@@ -1,5 +1,5 @@
-### Hi there 👋
-🌱 I’m currently learning at Codeup to become a Data Scientist
+### Hi there 👋 Welcome to my Github
+🔭 Currently working on a project in partnership with a Multifamily real estate firm
 <!--
 **akonstans/akonstans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
